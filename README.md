@@ -31,6 +31,9 @@
     <a href = 'https://github.com/ThioJoe/YT-Spammer-Purge/actions/workflows/docker-build.yml'>
         <img src = 'https://github.com/ThioJoe/YT-Spammer-Purge/actions/workflows/docker-build.yml/badge.svg'/>
     </a>
+        <a href = 'https://github.com/mbijjur/YT-Spammer-Purge/actions/workflows/docker-build.yml'>
+        <img src = 'https://github.com/mbijjur/YT-Spammer-Purge/actions/workflows/docker-build.yml/badge.svg'/>
+    </a>
 </div>
 
 <br>
